@@ -4,7 +4,9 @@ This is . A tableau dashboard file is not provided becasue all the grapgh are do
 
 ## Most murderous years of both solved and unsloved cases
 
-![](PNG FILE)
+![](Most Murderous Years)
+
+![](Most Murderous Years 2)
 
 ### Visualization/Reasoning 
 
@@ -21,7 +23,7 @@ Why: California is the most populous state in the US which could account for the
 
 ## Top 5 Most Murderous States by Decade
 
-![](PNG FILE)
+![](Most Murderous States)
 
 ### Visualization/Reasoning 
 
@@ -38,7 +40,7 @@ Why: The states that consistently rank high are those with the most population i
 
 ## Incidents by Month in the Deadliest year and States
 
-![](PNG FILE)
+![](Incidents by Month)
 
 ### Visualization/Reasoning 
 Visual shows the incident counts in each month in the most incident riden year(1993) in the top 5 most incidental states of that year, color coded(California, New York, Texas, Florida, and Illinois). The incident counts are detailed next to each point. Counts are arranged in descending order showing the most murderous month in the most murderous state in the most murderous year first.
@@ -51,7 +53,9 @@ Since the data was put in descending order July shows the most incidents compare
 
 ## Victim Age/ Count and the Casue of death
 
-![](PNG FILE)
+![](Victim Age Weapons)
+
+![](Victim Age Weapons 2)
 
 ### Visualization/Reasoning 
 Visual shows the average age of victims by the cause of their deaths by the perpetrator
@@ -63,7 +67,7 @@ Visual type: Bar Chart
 
 ## Race and Victim Count
 
-![](PNG FILE)
+![](Race and Victim Count)
 
 ### Visualization/Reasoning 
 Visual shows the number of victims by race by the cause of their deaths by the prepreatrator
