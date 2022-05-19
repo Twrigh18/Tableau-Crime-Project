@@ -4,9 +4,9 @@ This is . A tableau dashboard file is not provided becasue all the grapgh are do
 
 ## Most murderous years of both solved and unsloved cases
 
-![](Most Murderous Years)
+![](Most%20Murderous%20Years.png)
 
-![](Most Murderous Years 2)
+![](Most%20Murderous%20Years%202.png)
 
 ### Visualization/Reasoning 
 
@@ -23,7 +23,7 @@ Why: California is the most populous state in the US which could account for the
 
 ## Top 5 Most Murderous States by Decade
 
-![](Most Murderous States)
+![](Most%20Murderous%20States.png)
 
 ### Visualization/Reasoning 
 
@@ -40,7 +40,7 @@ Why: The states that consistently rank high are those with the most population i
 
 ## Incidents by Month in the Deadliest year and States
 
-![](Incidents by Month)
+![](Incidents%20by%20Month.png)
 
 ### Visualization/Reasoning 
 Visual shows the incident counts in each month in the most incident riden year(1993) in the top 5 most incidental states of that year, color coded(California, New York, Texas, Florida, and Illinois). The incident counts are detailed next to each point. Counts are arranged in descending order showing the most murderous month in the most murderous state in the most murderous year first.
@@ -53,9 +53,9 @@ Since the data was put in descending order July shows the most incidents compare
 
 ## Victim Age/ Count and the Casue of death
 
-![](Victim Age Weapons)
+![](Victim%20Age%20Weapons.png)
 
-![](Victim Age Weapons 2)
+![](Victim%20Age%20Weapons%202.png)
 
 ### Visualization/Reasoning 
 Visual shows the average age of victims by the cause of their deaths by the perpetrator
@@ -67,7 +67,7 @@ Visual type: Bar Chart
 
 ## Race and Victim Count
 
-![](Race and Victim Count)
+![](Race%20and%20Victim%20Count.png)
 
 ### Visualization/Reasoning 
 Visual shows the number of victims by race by the cause of their deaths by the prepreatrator
@@ -79,17 +79,85 @@ For the age of the victims, most of the victims were in their their 30s and over
 
 ## Female Murder trends
 
-![](PNG FILE)
+![](Female Murder Trends)
+
+![](Female Murder Trends 2)
 
 ### Visualization/Reasoning 
+First visualization is a line graph that measures total victim count (y-axis) by year (x-axis) from the years 1980-2014
+Data filters applied: 
+Perpetrator Sex: Female
+Victim Sex: Male, Female (Separate Visuals )
+Animation (Pages Feature) applied by year, shows full history
+Total number of deaths by sex, from 1980 to [Selected Year] is in top right corner of each visual
+A line graph was chosen to show either the positive or negative trend of murder counts by the female killer over decades. The sexes were stratified in order to compare the different rates in which men and women were killed. 
+Each graph was color coded in stereotypical fashion (male is blue, female is pink) for visual clarity
+Dashboard users can interact with year selection for visual effect and impact
+
 
 ### Patterns Trends
-From observing this, Whites have most victims. Blacks have the second most victims. Both of the victims were caused by handguns. Even though other races have smaller victim count, the biggest cause was handguns
+From the visualization, we can determine that men are killed much more often than women. This is consistent with our other dashboards, even if the killer is not a female. 
+Interestingly, the murder rate drops dramatically for men (1980 had 1990 murders while 2014 had 713) while the female murder rate seems fairly static over the decades. Refer to the downward sloping trajectory of the Male Victim visual versus the consistent Female Victim slope. I hypothesize that while 
 
-In the United States, it is easy to own a gun. United States also has a second amendment.
+
+## Most common weapon type by female killer’s age and their victim’s relation (1980-2014)
+
+![](Female Murder Weapons)
+
+## Visualization/Reasoning
+This visualization is an area map. It correlates the size of a rectangle relative to the what percentage of the data it represents. It is arranged from left to right in descending order of incidents counts by weapon (and user-selected killer age and victim relationship)
+Data filters applied: 
+Perpetrator Sex: Female
+Perpetrator Age: [User Selects]
+Relationship: [User Selects]
+Each weapon type has its own unique color. Each square labels the weapon and the incident count
+The user-selected filters, killer age and relationship, are drop-down menus for clarity and ease of use. 
+An area map was chosen to give visual impact of the count and popularity of a weapon type. It clearly portrays the dominant percentage of murders committed with guns and knives compared to more novel forms of murder such as drowning or fire.
+The drop-down menus allow users to stratify data into interesting population segments. For example, younger killers may have access to different types of murder weapons compared to older ones. Similarly, users can see how murder types vary between family members and strangers
+
+## Patterns/Trensds
+This is an interesting dashboard to interact with. It becomes apparent that younger killers have less cases of murder, but a more unique profile of weapon types. This may be due to difficulties in obtaining the most popular weapons (handguns) and resort to modes like drowning, knives, or blunt objects. Middle-age women most prefer handguns. Some interesting trends: knives are more popular to kill boyfriends, but guns are more popular when killing husbands. There is also an uptick in death by fire when the relation is “Neighbor” which suggests murderers set neighbor’s houses on fire. 
 
 
-## Number of fetal incidents and Perpetriotr Age
+## Number of Fatal Incidents and Perpetrator Age
+
+![](Average Perpetrator Age)
+![](Average Perpetrator Map)
+
+###Visualization/Reasoning
+For this visualization I used a Symbol Map of the United States
+Chosen to show the different states and the different amount of incidents
+Shows the average number of fatal incidents per state from 1980 to 2014
+
+
+
+###Patterns/Trends
+The states with the highest average number of instances were: Florida with 218  Illinois with 26.1 Washington DC with 18.8
+This could be due to the states having a large presence of gang activity
+The states with the lowest average number of instances were: Maine with 1 Montana with 1.1 Idaho with 1.1
+This could be due  to the states being more rural area than large cities
+
+
+
+## Average Preparerator Age
+
+### Visualization/Reasoning
+For this visualization I chose a vertical bar chart
+Chosen to show the vast differences in ages between the states
+It shows the average perpetrator age by state
+
+
+### Patterns/Trends
+The States with the oldest average age of the perpetrator were: Montana at 31.04 years old Vermont 30.89 years old West Virginia 30.57
+This could be due to being rural areas and the people get into disputes
+The states with the youngest average age of the perpetrator were: Washington DC at 7.34 years old New York at 13.77 years old and Maryland at 15.95 years old
+This could be due to being states with a lot of gang activity and young people are being recruited 
+
+
+
+![](Average Perpetrator State)
+
+
 
 ![](PNG FILE)
 
@@ -102,20 +170,8 @@ In the United States, it is easy to own a gun. United States also has a second a
 ![](PNG FILE)
 
 ### Visualization/Reasoning 
-First visualization is a line graph that measures total victim count (y-axis) by year (x-axis) from the years 1980-2014
-Data filters applied: 
-Perpetrator Sex: Female
-Victim Sex: Male, Female (Separate Visuals )
-Animation (Pages Feature) applied by year, shows full history
-Total number of deaths by sex, from 1980 to [Selected Year] is in top right corner of each visual
-A line graph was chosen to show either the positive or negative trend of murder counts by the female killer over decades. The sexes were stratified in order to compare the different rates in which men and women were killed. 
-Each graph was color coded in stereotypical fashion (male is blue, female is pink) for visual clarity
-Dashboard users can interact with year selection for visual effect and impact
-![image](https://user-images.githubusercontent.com/97319435/169174073-48b350b9-f38f-491a-b362-ac80d8de4760.png)
+
 
 ### Patterns Trends
-From the visualization, we can determine that men are killed much more often than women. This is consistent with our other dashboards, even if the killer is not a female. 
-Interestingly, the murder rate drops dramatically for men (1980 had 1990 murders while 2014 had 713) while the female murder rate seems fairly static over the decades. Refer to the downward sloping trajectory of the Male Victim visual versus the consistent Female Victim slope. I hypothesize that while 
-![image](https://user-images.githubusercontent.com/97319435/169174093-38ff76ff-3c3d-4c8e-8815-1f3527b6bd21.png)
-
+From th
 ## Conclusions
