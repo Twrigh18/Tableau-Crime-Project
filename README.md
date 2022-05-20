@@ -150,8 +150,11 @@ Relationship: [User Selects]
 * This could be due to being states with a lot of gang activity and young people are being recruited 
 
 ## Murder and Manluaghter Solved Rates and Occurrence Rates
+![](Who%20Is%20Perpetrator.png) 
+![](Who%20Is%20Perpetrator%202.png)
+![](Who%20Is%20Perpetrator%203.png)
+![](Who%20Is%20Perpetrator%204.png)
 
-PNG
 ### Visualization/Reasoning
 
 * Visual shows a count of the different types of relationship the perpetrators had with the victims. It also has the data split into two categories, perpetrators caught, or not, for each victim relationship types 
@@ -164,7 +167,11 @@ PNG
 
 ## Number of solved and unslocced incidents by agency types with weapon used
 
-PNG FILE
+![](Agency%20Weapon%20Used.png)
+![](Agency%20Weapon%20Used%202.png)
+![](Agency%20Weapon%20Used%203.png)
+![](Agency%20Weapon%20Used%204.png)
+
 ### Visualization/Reasoning
 * Visual shows the number of solved and unsolved weapon type instances by Agency Type.
 * Visual type: Stacked bar chart
@@ -174,7 +181,10 @@ PNG FILE
 * Why: This not surprising because spent bullets leave a sort of finger print from the gun it was fired from. While a knife on the other hand ones cleaned leaves no traces that it was ever used. That why cops can easily prove that a particular weapon fired the bullet that killed whoever. However, when it come to knifes it can be impossible for the cops to prove a particular knife was used in a murder or manslaughter. 
 
 ## Number of occurances of weapon types for each agency type
-PNG FILE
+![](Agency%20Weapon%20Occurence.png)
+![](Agency%20Weapon%20Occurence%202.png)
+![](Agency%20Weapon%20Occurence%203.png)
+![](Agency%20Weapon%20Occurence%204.png)
 
 ### Visualization/Reasoning
 * Visual shows the number of instances of different weapon type in each Agency Type. 
@@ -185,7 +195,8 @@ PNG FILE
 * Why: Each of these agencies are grouped by the type of area they patrol. So this chart would show what incoming officers can expect in regards to how crimes are committed in each Agency type. For an example the municipal policies typically deal with firearms and blunt object weapons.  
 
 ## Number of Incdients vs Number of Solved Incdents
-PNG FILE 
+
+![](Number%20of%20Incidents.png)
 
 ### Visualization/Reasoning 
 
