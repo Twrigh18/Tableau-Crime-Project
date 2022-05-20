@@ -205,5 +205,15 @@ PNG FILE
 * States with a higher number of gang activity tend to have a lower average for murderers
 * Most victims were murdered by handguns, aged mostly in their 30s and over. 
 
-Hoe to reduce murders
+## How to reduce murders
 
+1. Better Gun Control such as background checks
+2. Community should be getting people to vote on laws and polticatans that will help reduce gun violence
+3.  Priotize on mental health like easy access to therpy, medications, hosiptals and change the culture on how others see mental health
+4.  HAve more police precesne is good but the big concern is it can be abused to discrimaite and trarget person of color 
+5.  Education
+6.  HAve community proitize on education
+7. Reduce Poverty
+
+All these options are good I beleive th
+the best to stop the crime is to fix the reason why prople commit crimes such as homicides. For example if the murder is mental illness then focus on mental health or if tit a gang violence focus on things can be possiitive of the cimmminuity for people dont resort to gun volience.
