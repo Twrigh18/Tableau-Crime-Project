@@ -1,6 +1,6 @@
 # Tableau-Crime-Project
 
-This is . A tableau dashboard file is not provided becasue all the grapgh are done by each group memeber and the screenshots of the grpahs were sent to the slides. The project was done as a group of five including myself
+This project was created in my Supply Chain Decsion Models class that I took at Arizona State University. This project was to find any dataset online and create grapghs of interst using the data visulzation tool called Tableau. The project is about homicide and the different types of homicides that happen and the dates of the homicides. I also created a solution on how to reduce homicdes. A tableau dashboard file is not provided becasue all the grapghs are done by each group memeber and the screenshots of the grpahs were sent to the slides. The project was done as a group of five including myself.
 
 ## Most murderous years of both solved and unsloved cases
 
